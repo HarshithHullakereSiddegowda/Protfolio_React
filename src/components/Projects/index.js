@@ -109,7 +109,7 @@ const Projects = ({openModal,setOpenModal})=> {
         <Wrapper>
             <Title>Projects</Title>
             <Desc>
-                I have worked on a wide range of projects. From "Data Science"s to android apps. Here are some of my projects.
+            I have engaged in a diverse array of projects, predominantly centered around the field of "Data Science." Here are a few highlights from my project portfolio.
             </Desc>
         <ToggleGroup >
           {toggle === 'all' ?

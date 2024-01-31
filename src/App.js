@@ -9,7 +9,7 @@ import { BrowserRouter as Router } from "react-router-dom"
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import { useState, useEffect } from "react";
+import { useState} from "react";
 import ProjectDetails from "./components/ProjectDetails";
 import Footer from "./components/Footer";
 
@@ -28,7 +28,7 @@ const Wrapper = styled.div`
 `
 
 function App() {
-  const [darkMode, setDarkMode] = useState(true);
+  const [darkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)
   return (

@@ -1,6 +1,7 @@
 import React from "react";
 import styled from 'styled-components';
 import { Link as LinkR } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { DiCssdeck } from 'react-icons/di';
 import { FaBars } from 'react-icons/fa';
 import { useTheme } from 'styled-components';
@@ -138,7 +139,7 @@ const MobileMenu = styled.div`
     z-index: ${({ open }) => (open ? '1000' : '-1000')};
 
 `
-const MobileMenuLink = styled(LinkR)`
+const MobileMenuLink = styled(Link)`
   color: ${({ theme }) => theme.text_primary};
   font-weight: 500;
   cursor: pointer;
@@ -159,7 +160,7 @@ const Navbar = () => {
         <Nav>
             <NavContainer>
                 <NavLogo to='/'>
-                    <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
+                    <a href='/' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
                         <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
                     </a>
                 </NavLogo>
@@ -180,11 +181,11 @@ const Navbar = () => {
                 <ButtonContainer>
                     <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
                 </ButtonContainer>
-            
+                </NavContainer>  
                 {(
                     open && 
                     <MobileMenu open={open}>
-                        <MobileMenuLink href="#about" onClick={() => {
+                        {/* <MobileMenuLink href="#about" onClick={() => {
                             setOpen(!open)
                         }}
                         >
@@ -205,11 +206,11 @@ const Navbar = () => {
                         }}>Projects</MobileMenuLink>
                         <MobileMenuLink href='#education' onClick={() => {
                             setOpen(!open)
-                        }}>Education</MobileMenuLink>
-                        <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
+                        }}>Education
+                        </MobileMenuLink> */}
+                    <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
                     </MobileMenu>
-                )}
-            </NavContainer>    
+                )}  
         </Nav>
     )
     ;
@@ -219,3 +220,6 @@ const Navbar = () => {
 
 
 export default Navbar;
+
+
+

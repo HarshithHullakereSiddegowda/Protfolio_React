@@ -188,11 +188,6 @@ const Button = styled.a`
         font-size: 12px;
     }
 `;
-
-
-
-
-
 const ProjectDetails = ({ openModal, setOpenModal }) => {
     const project = openModal?.project;
     return (

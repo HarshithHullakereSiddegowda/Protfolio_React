@@ -9,14 +9,13 @@ export const Bio = {
       "Machine Learning Eng",
     ],
     description:
-      "Highly motivated Data Science Professional, dedicated to leveraging my passion for learning and problem-solving to connect data insights with business processes. Seeking opportunities to apply my skills in data analysis, machine learning, and data-driven decision-making platforms. Eager to contribute high-quality results, my positive attitude and growth mindset drive me to make a meaningful impact and achieve success.",
+      "Highly motivated Data Science Professional, dedicated to leveraging my passion for learning and problem solving to connect data insights with business processes. Seeking opportunities to apply my skills in data analysis, machine learning, and data-driven decision-making platforms. Eager to contribute high quality results, my positive attitude and growth mindset drive me to make a meaningful impact and achieve success.",
     github: "https://github.com/HarshithHullakereSiddegowda",
     resume:
-      "https://drive.google.com/file/d/1MfFybJttoMczNRtzkwIdL1YG8fMDNrqM/view?usp=sharing",
+      "https://drive.google.com/file/d/18lg77lVHzokzZFlzpoiHiQCsfmeLhV7G/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/harshith-hs-328992217/",
-    twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+    insta: "https://www.instagram.com/harshith_h_s/?img_index=1",
+    facebook: "https://www.instagram.com/harshith_h_s/?img_index=1",
   };
   
   export const skills = [
@@ -125,7 +124,6 @@ export const Bio = {
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
         },
-        ,
       ],
     },
     {
@@ -244,7 +242,7 @@ export const Bio = {
       description:
         "This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/298373013-9afa71fb-e0b1-48ab-8261-f0a9208f1858.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2MDUyNzAsIm5iZiI6MTcwNjYwNDk3MCwicGF0aCI6Ii8xMDA0MDI2ODEvMjk4MzczMDEzLTlhZmE3MWZiLWUwYjEtNDhhYi04MjYxLWYwYTkyMDhmMTg1OC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDEzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMzBUMDg1NjEwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Zjc4ZmQ4OWVhODRjY2YwNDI4YzBmNDkyMzUxNmM1YTI1NGQ4MGExYjlmMmEyZjA1NjQxZjc3OTRmNGU5ZmNiNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.6OFC9tdRQhxRYE1-rLW08zw2FKQSBhdk4visE4OatIM",
+        "https://private-user-images.githubusercontent.com/100402681/301072111-b34969ed-fc7e-44b7-9d6a-5b4d5e6de56a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODU3ODEsIm5iZiI6MTcwNjY4NTQ4MSwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDcyMTExLWIzNDk2OWVkLWZjN2UtNDRiNy05ZDZhLTViNGQ1ZTZkZTU2YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzE4MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMDJiYWE2MjRmZjliOTVhOTBiN2YyOGEyYmUzOGI3MGI3NzVkZDZmZWVjOGE4MTMwMDg5YWI1NzFkNmNiYWU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.B6ZXQRksXlGqtcGSPqmrNQjWFvLgnQwecI91s28u4oM",
       tags: [
         "Amazon S3",
         "AWS IAM",
@@ -264,7 +262,7 @@ export const Bio = {
       description:
        "The main objective of the above data visualization aims to show the analysis and comprehension of historical trends, patterns, and factors influencing road traffic fatalities is the primary goal of this study of road accident fatalities from 1990 to 2019.",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/298374710-3aaa34d1-2e99-45dc-b2c2-8d142121c4d4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2MDU4MjYsIm5iZiI6MTcwNjYwNTUyNiwicGF0aCI6Ii8xMDA0MDI2ODEvMjk4Mzc0NzEwLTNhYWEzNGQxLTJlOTktNDVkYy1iMmMyLThkMTQyMTIxYzRkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMFQwOTA1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNjcxN2M2NGE0ZWE0NDZhYmU5ZjFiNmI2ZjU4MDcyZDRlMmM0Njk5MWFhZmFiNWZkZDZiZTNkMDI3YTk1NDQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jAtnHQVFb82Iq4ckd5YkbIOp_YbP4z4YgoASB9kaov8",
+        "https://private-user-images.githubusercontent.com/100402681/301073492-c8109335-6a56-40d8-881c-065a7c500cc9.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODYxMTYsIm5iZiI6MTcwNjY4NTgxNiwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDczNDkyLWM4MTA5MzM1LTZhNTYtNDBkOC04ODFjLTA2NWE3YzUwMGNjOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzIzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjdlNDY5NzBmOTY5ZmQ4NGNjYjg0Njg1OTZiNGRlYWQ1NGUyZTRhYmQ3ZTM3NjMwYzJmMDliNzU4MzdiZDMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0Fa55Uk0WPtxp4G6e99QJ5cAB4c-v6h5X3QfwVSoV1g",
       tags: ["Shiny", "flex dashboard", "tidyr", "plotly", "ggplot2"],
       category: "Data Science",
       github: "https://github.com/HarshithHullakereSiddegowda/Data__Visualization?tab=readme-ov-file",
@@ -277,7 +275,7 @@ export const Bio = {
       description:
         "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/300753687-be972e4f-f9b9-43b7-af94-b38d96b5d219.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2MDc5NTIsIm5iZiI6MTcwNjYwNzY1MiwicGF0aCI6Ii8xMDA0MDI2ODEvMzAwNzUzNjg3LWJlOTcyZTRmLWY5YjktNDNiNy1hZjk0LWIzOGQ5NmI1ZDIxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMFQwOTQwNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMWQxMDI0ZmZhYTNjOWFiY2IzNGVlYmJkMDgyNTNkYjAxZmJmZjEyZjU3Y2Y3MDljYTI1MmNiZDE4YzRhYzQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iPRBe3GBmhz_rReKX9xB2GghjsWQmu1z5JevDW3ZVNE",
+        "https://private-user-images.githubusercontent.com/100402681/301072979-5896830d-d1f4-4eff-b775-620a0161d094.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODU5ODAsIm5iZiI6MTcwNjY4NTY4MCwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDcyOTc5LTU4OTY4MzBkLWQxZjQtNGVmZi1iNzc1LTYyMGEwMTYxZDA5NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzIxMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNGFhMTdlYzFkODBlN2FiYzQ3ZTc0ODc3NTI2ZGYyMjIxODU0NTc5NmMxODk4Y2VmZDMwZjU2ZGFhYjE5NDE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._ytfU69invy0cCSRj2Bx7f5xWNKicOplwBO_tDoJiQ4",
       tags: ["NLP","Python", "Keras", "TensorFlow", "VGG16", "Pickle"],
       category: "machine learning",
       github: "https://github.com/HarshithHullakereSiddegowda/Microaggression_Detection",
@@ -288,7 +286,7 @@ export const Bio = {
       title: "Music Website(AWS Cloud Deployment)",
       date: "Dec 2021 - Apr 2022",
       description:
-        "Developed an AWS EC2, S3, API Gateway, Lambda and DynamoDB based application based on a python programming language. Developed and deployed cloud applications using popular cloud platforms- AWC Cloud.",
+        "I created and deployed a music website using various AWS services. The application, built on the Python programming language, utilizes AWS EC2, S3, API Gateway, Lambda, and DynamoDB. This project involved the development and deployment of cloud applications, showcasing proficiency in AWS Cloud services.",
       image:
         "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5HSQUQ4EU3oDUEvKTKBKjA.png",
       tags: ["Flask", "AWS EC2", "AWS S3", "Dynamo DB", "Lambda"],
@@ -303,7 +301,7 @@ export const Bio = {
       description:
         "The objective of this project is to assist the sellers, buyers, in the used car market. Based on the information provided by the users, it may then provide a relatively accurate price estimate, understand what are all the atribute feature effect on the price of a car, selecting the right features which plays a significant role in predicting the price of a car. ",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/300802751-54f2b707-77cb-4736-a74f-641821f9cf4a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2MTc1OTYsIm5iZiI6MTcwNjYxNzI5NiwicGF0aCI6Ii8xMDA0MDI2ODEvMzAwODAyNzUxLTU0ZjJiNzA3LTc3Y2ItNDczNi1hNzRmLTY0MTgyMWY5Y2Y0YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMFQxMjIxMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZDcxOGI5ODExOWZkZjAyZTE0NzE2ZjAzNmQ4MmNiMjdhNjllYThmZDcwOWNkY2U1ZWIxNzljZmEzZGYwZDc5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cr5Cd1x7C-ernNEdQAuARMyKD5Zbz3ocwOYL6P_mHvE",
+        "https://github-production-user-asset-6210df.s3.amazonaws.com/100402681/301067180-524196fe-b58e-43c4-b48e-d7c1baf4099f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240131T070235Z&X-Amz-Expires=300&X-Amz-Signature=574133e7673b237819631f883e50c76aff73dfa194fb60aca3ee2d7497ac3e6f&X-Amz-SignedHeaders=host&actor_id=100402681&key_id=0&repo_id=708670275",
       tags: ["ML Model", "Regressor", "data Preparation", "Data Feature"],
       category: "Data Science",
       github: "https://github.com/HarshithHullakereSiddegowda/Car-Price-Prediction/tree/main",
@@ -314,7 +312,7 @@ export const Bio = {
       title: "NLP-Job advertisment Category",
       date: "Jul 2022",
       description:
-        "Milestone I, wherein I engineered and implemented a range of machine learning models. These models were intricately designed, leveraging diverse feature representations of documents The primary objective was to accurately classify job advertisements into distinct categories..",
+        "Milestone I, I took on a pivotal role where I designed and implemented a variety of machine learning models. These models were intricately crafted, utilizing diverse feature representations of documents. The primary goal was to achieve precise classification of job advertisements into distinct categories, showcasing a comprehensive approach to NLP-driven solutions in the job advertisement domain.",
       image:
         "https://geekflare.com/wp-content/uploads/2023/05/Natural-Language-Processing-NLP-Algorithms-Explained.jpg",
       tags: ["NLP", "Text PreProcess", "Feature Engineering", "Models", "Flask app"],
@@ -340,9 +338,9 @@ export const Bio = {
       title: "Protfolio",
       date: "Jan 2024 - Feb 2024",
       description:
-        "Personal Protfolio Website, I got the opportunity to learn React Js, Node Js, Html, CSS",
+        "During this period, I dedicated time to learning and implementing technologies such as React Js, Node Js, HTML, and CSS. The outcome was the development of a personal portfolio website, showcasing my skills and projects. This hands-on experience enriched my proficiency in web development.",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/300770717-78fbdf71-8f4c-4c4f-877a-822e81279835.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2MTA2NDUsIm5iZiI6MTcwNjYxMDM0NSwicGF0aCI6Ii8xMDA0MDI2ODEvMzAwNzcwNzE3LTc4ZmJkZjcxLThmNGMtNGM0Zi04NzdhLTgyMmU4MTI3OTgzNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMFQxMDI1NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NmQ4MjlmOTczOWM3YWQ5NmY0NGFhODc3ZTQ0ODlmNTNhNDg3YzliMDEzNDg5NTIzNjRmMTQ2NDFiYWM5MzA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.njtXDdaDL2iiOv_WGhoTs5n7OabtYzxpcWLo-o02ncs",
+       "https://private-user-images.githubusercontent.com/100402681/301069523-f0b87154-b048-458d-bd0c-b0db5869fe97.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODUxNDEsIm5iZiI6MTcwNjY4NDg0MSwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDY5NTIzLWYwYjg3MTU0LWIwNDgtNDU4ZC1iZDBjLWIwZGI1ODY5ZmU5Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzA3MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMGVhM2JhZmVhMWJlN2JmZDc0N2FjMjhlYTgzOGMwOWQwZGUyNGM5NzMzNzhjNTE5NzlhZDBhNzQ2OTM3Nzk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3Pul9_5ZRsc742wQt9fYOs7X_NJY_p7qfKWCQmZDJAU",
       tags: ["React Js", "Node Js", "Html", "CSS", ],
       category: "Web app",
       github: "https://github.com/HarshithHullakereSiddegowda/Protfolio_React/tree/main",
