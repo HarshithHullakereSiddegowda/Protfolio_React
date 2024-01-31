@@ -1,7 +1,7 @@
 # Protfolio
 
 
-<img width="1355" alt="300769807-7d154720-ab0c-45d2-a9bc-fa95f93afa8b" src="https://github.com/HarshithHullakereSiddegowda/Protfolio_React/assets/100402681/78fbdf71-8f4c-4c4f-877a-822e81279835">
+![HSSSS](https://github.com/HarshithHullakereSiddegowda/Protfolio_React/assets/100402681/f0b87154-b048-458d-bd0c-b0db5869fe97)
 
 
 
