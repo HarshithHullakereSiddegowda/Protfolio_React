@@ -1,7 +1,7 @@
 import React from "react";
 import styled from 'styled-components';
 import { Link as LinkR } from 'react-router-dom';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import { DiCssdeck } from 'react-icons/di';
 import { FaBars } from 'react-icons/fa';
 import { useTheme } from 'styled-components';
