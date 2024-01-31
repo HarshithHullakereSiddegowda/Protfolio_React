@@ -3,6 +3,7 @@
 
 import styled from 'styled-components';
 import FacebookIcon from '@mui/icons-material/Facebook';
+import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constant';
@@ -107,7 +108,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 All rights reserved.
+          &copy; 2023 Rishav Chanda. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
