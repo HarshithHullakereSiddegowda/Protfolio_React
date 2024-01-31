@@ -139,20 +139,20 @@ const MobileMenu = styled.div`
     z-index: ${({ open }) => (open ? '1000' : '-1000')};
 
 `
-const MobileMenuLink = styled(Link)`
-  color: ${({ theme }) => theme.text_primary};
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-  text-decoration: none;
-  :hover {
-    color: ${({ theme }) => theme.primary};
-  }
+// const MobileMenuLink = styled(Link)`
+//   color: ${({ theme }) => theme.text_primary};
+//   font-weight: 500;
+//   cursor: pointer;
+//   transition: all 0.2s ease-in-out;
+//   text-decoration: none;
+//   :hover {
+//     color: ${({ theme }) => theme.primary};
+//   }
 
-  &.active {
-    border-bottom: 2px solid ${({ theme }) => theme.primary};
-  }
-`;
+//   &.active {
+//     border-bottom: 2px solid ${({ theme }) => theme.primary};
+//   }
+// `;
 const Navbar = () => {
     const [open, setOpen] = React.useState(false);
     const theme = useTheme();
