@@ -262,7 +262,7 @@ export const Bio = {
       description:
        "The main objective of the above data visualization aims to show the analysis and comprehension of historical trends, patterns, and factors influencing road traffic fatalities is the primary goal of this study of road accident fatalities from 1990 to 2019.",
       image:
-          "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Data__Visualization/main/vs.jpeg?token=GHSAT0AAAAAACMS6D7347WVU2YFM3VOWPPYZN24XHA",
+          "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Data__Visualization/main/Visual1.jpeg,
       tags: ["Shiny", "flex dashboard", "tidyr", "plotly", "ggplot2"],
       category: "Data Science",
       github: "https://github.com/HarshithHullakereSiddegowda/Data__Visualization?tab=readme-ov-file",
@@ -275,7 +275,7 @@ export const Bio = {
       description:
         "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/301072979-5896830d-d1f4-4eff-b775-620a0161d094.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODU5ODAsIm5iZiI6MTcwNjY4NTY4MCwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDcyOTc5LTU4OTY4MzBkLWQxZjQtNGVmZi1iNzc1LTYyMGEwMTYxZDA5NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzIxMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNGFhMTdlYzFkODBlN2FiYzQ3ZTc0ODc3NTI2ZGYyMjIxODU0NTc5NmMxODk4Y2VmZDMwZjU2ZGFhYjE5NDE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._ytfU69invy0cCSRj2Bx7f5xWNKicOplwBO_tDoJiQ4",
+           "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Protfolio_React/main/images/Concept__map.jpg",
       tags: ["NLP","Python", "Keras", "TensorFlow", "VGG16", "Pickle"],
       category: "machine learning",
       github: "https://github.com/HarshithHullakereSiddegowda/Microaggression_Detection",
@@ -301,7 +301,7 @@ export const Bio = {
       description:
         "The objective of this project is to assist the sellers, buyers, in the used car market. Based on the information provided by the users, it may then provide a relatively accurate price estimate, understand what are all the atribute feature effect on the price of a car, selecting the right features which plays a significant role in predicting the price of a car. ",
       image:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/100402681/301067180-524196fe-b58e-43c4-b48e-d7c1baf4099f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240131T070235Z&X-Amz-Expires=300&X-Amz-Signature=574133e7673b237819631f883e50c76aff73dfa194fb60aca3ee2d7497ac3e6f&X-Amz-SignedHeaders=host&actor_id=100402681&key_id=0&repo_id=708670275",
+        "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Car-Price-Prediction/main/car.jpg",
       tags: ["ML Model", "Regressor", "data Preparation", "Data Feature"],
       category: "Data Science",
       github: "https://github.com/HarshithHullakereSiddegowda/Car-Price-Prediction/tree/main",
@@ -340,7 +340,7 @@ export const Bio = {
       description:
         "During this period, I dedicated time to learning and implementing technologies such as React Js, Node Js, HTML, and CSS. The outcome was the development of a personal portfolio website, showcasing my skills and projects. This hands-on experience enriched my proficiency in web development.",
       image:
-       "https://private-user-images.githubusercontent.com/100402681/301069523-f0b87154-b048-458d-bd0c-b0db5869fe97.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODUxNDEsIm5iZiI6MTcwNjY4NDg0MSwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDY5NTIzLWYwYjg3MTU0LWIwNDgtNDU4ZC1iZDBjLWIwZGI1ODY5ZmU5Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzA3MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMGVhM2JhZmVhMWJlN2JmZDc0N2FjMjhlYTgzOGMwOWQwZGUyNGM5NzMzNzhjNTE5NzlhZDBhNzQ2OTM3Nzk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3Pul9_5ZRsc742wQt9fYOs7X_NJY_p7qfKWCQmZDJAU",
+       "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Protfolio_React/main/images/HSSSS.jpg",
       tags: ["React Js", "Node Js", "Html", "CSS", ],
       category: "Web app",
       github: "https://github.com/HarshithHullakereSiddegowda/Protfolio_React/tree/main",
