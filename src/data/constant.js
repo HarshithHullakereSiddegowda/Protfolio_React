@@ -242,7 +242,7 @@ export const Bio = {
       description:
         "This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.",
       image:
-        "https://private-user-images.githubusercontent.com/100402681/301072111-b34969ed-fc7e-44b7-9d6a-5b4d5e6de56a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODU3ODEsIm5iZiI6MTcwNjY4NTQ4MSwicGF0aCI6Ii8xMDA0MDI2ODEvMzAxMDcyMTExLWIzNDk2OWVkLWZjN2UtNDRiNy05ZDZhLTViNGQ1ZTZkZTU2YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNzE4MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMDJiYWE2MjRmZjliOTVhOTBiN2YyOGEyYmUzOGI3MGI3NzVkZDZmZWVjOGE4MTMwMDg5YWI1NzFkNmNiYWU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.B6ZXQRksXlGqtcGSPqmrNQjWFvLgnQwecI91s28u4oM",
+          "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Youtube-Trend-Analysis-ETL-/main/architecture.jpeg",
       tags: [
         "Amazon S3",
         "AWS IAM",
