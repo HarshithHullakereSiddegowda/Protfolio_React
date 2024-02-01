@@ -262,7 +262,7 @@ export const Bio = {
       description:
        "The main objective of the above data visualization aims to show the analysis and comprehension of historical trends, patterns, and factors influencing road traffic fatalities is the primary goal of this study of road accident fatalities from 1990 to 2019.",
       image:
-          "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Data__Visualization/main/Visual1.jpeg,
+          "https://raw.githubusercontent.com/HarshithHullakereSiddegowda/Data__Visualization/main/Visual1.jpeg",
       tags: ["Shiny", "flex dashboard", "tidyr", "plotly", "ggplot2"],
       category: "Data Science",
       github: "https://github.com/HarshithHullakereSiddegowda/Data__Visualization?tab=readme-ov-file",
