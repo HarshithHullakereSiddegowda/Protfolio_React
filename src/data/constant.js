@@ -12,7 +12,7 @@ export const Bio = {
       "Highly motivated Data Science Professional, dedicated to leveraging my passion for learning and problem solving to connect data insights with business processes. Seeking opportunities to apply my skills in data analysis, data engineering, machine learning, and data-driven decision-making platforms.",
     github: "https://github.com/HarshithHullakereSiddegowda",
     resume:
-      "https://drive.google.com/file/d/18lg77lVHzokzZFlzpoiHiQCsfmeLhV7G/view?usp=sharing",
+      "https://drive.google.com/file/d/1w7OCRaHH2jY7RvY7SBg-TneIEvOq14Ve/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/harshith-hs-328992217/",
     insta: "https://www.instagram.com/harshith_h_s/?img_index=1",
     facebook: "https://www.instagram.com/harshith_h_s/?img_index=1",
