@@ -9,7 +9,7 @@ export const Bio = {
       "Machine Learning Eng",
     ],
     description:
-      "Highly motivated Data Science Professional, dedicated to leveraging my passion for learning and problem solving to connect data insights with business processes. Seeking opportunities to apply my skills in data analysis, machine learning, and data-driven decision-making platforms. Eager to contribute high quality results, my positive attitude and growth mindset drive me to make a meaningful impact and achieve success.",
+      "Highly motivated Data Science Professional, dedicated to leveraging my passion for learning and problem solving to connect data insights with business processes. Seeking opportunities to apply my skills in data analysis, data engineering, machine learning, and data-driven decision-making platforms.",
     github: "https://github.com/HarshithHullakereSiddegowda",
     resume:
       "https://drive.google.com/file/d/18lg77lVHzokzZFlzpoiHiQCsfmeLhV7G/view?usp=sharing",
