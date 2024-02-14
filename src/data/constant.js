@@ -13,7 +13,7 @@ export const Bio = {
     github: "https://github.com/HarshithHullakereSiddegowda",
     resume:
       "https://drive.google.com/file/d/1w7OCRaHH2jY7RvY7SBg-TneIEvOq14Ve/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/harshith-hs-328992217/",
+    linkedin: "https://drive.google.com/file/d/1p-qcws1ImYn0KLMdhqhCqBri0dB55NZk/view?usp=sharing",
     insta: "https://www.instagram.com/harshith_h_s/?img_index=1",
     facebook: "https://www.instagram.com/harshith_h_s/?img_index=1",
   };
