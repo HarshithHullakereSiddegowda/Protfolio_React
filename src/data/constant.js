@@ -12,7 +12,7 @@ export const Bio = {
       "Highly motivated Data Science Professional, dedicated to leveraging my passion for learning and problem solving to connect data insights with business processes. Seeking opportunities to apply my skills in data analysis, data engineering, machine learning, and data-driven decision-making platforms.",
     github: "https://github.com/HarshithHullakereSiddegowda",
     resume:
-           "https://drive.google.com/file/d/1_TCKW0zYHwGKmQNXpsQo1d3b_jG60zl1/view",
+           "https://drive.google.com/file/d/1rA24n9wVQVVB2-Ktf1ffgR4xveNlHaCz/view?usp=sharing",
     linkedin: "https://drive.google.com/file/d/1p-qcws1ImYn0KLMdhqhCqBri0dB55NZk/view?usp=sharing",
     insta: "https://www.instagram.com/harshith_h_s/?img_index=1",
     facebook: "https://www.instagram.com/harshith_h_s/?img_index=1",
@@ -199,7 +199,7 @@ export const Bio = {
     {
       id: 2,
       img: "https://media.licdn.com/dms/image/C560BAQFnG3xekPh6VQ/company-logo_200_200/0/1630659098824/mindstacksolutions_logo?e=2147483647&v=beta&t=eOEDLKTS_Gic_ITh91m0o1cR45PYgnvX3h7P6mEU3mc",
-      role: "Associate System Engineer",
+      role: "Junir Data Engineer",
       company: "Mind Stack Solution PVT LTD",
       date: "Aug 2019 - Nov 2020",
       desc: "Led the design and implementation of a relational database management system using SQL to support critical business applications and improve data integrity. Developed Python scripts to automate system monitoring and alerting, reducing incident response time and ensuring high availability.",
